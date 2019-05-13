@@ -1,0 +1,3 @@
+[submodule "Projects/cms"]
+	path = Projects/cms
+	url = https://github.com/ralali/cms.git
